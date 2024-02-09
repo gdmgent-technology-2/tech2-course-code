@@ -1,0 +1,35 @@
+# Python cache files
+__pycache__/
+
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Dependency directories
+venv/
+env/
+lib/
+libs/
+bin/
+include/
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
